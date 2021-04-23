@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\bin\Debug\Capa de clases.dll
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\bin\Debug\Capa de clases.pdb
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\obj\Debug\Capa de clases.dll
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\obj\Debug\Capa de clases.pdb
+C:\Users\user\source\repos\SlnUniversidadAndina\Capa de clases\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
